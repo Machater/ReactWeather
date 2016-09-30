@@ -11,6 +11,7 @@ var About = (props) => {
                 <li>Version control with git and GitHub</li>
                 <li>Deployed to Heroku</li>
                 <li>Styled with Foundation</li>
+                <li>CSS with Sass</li>
                 <li>Bundled with Webpack</li>
                 <li>Running on Express for Node.js</li>
                 <li>Compiled with Babel</li>
